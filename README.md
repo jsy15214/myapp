@@ -50,7 +50,7 @@ Head to http://localhost:8000 in your browser and you'll see the app running.
 You can also test endpoints with [Postman](https://www.getpostman.com/).
 
 ## User Instructions
-Please view full instructions in *instructions.pdf* in the current directory. Enjoy!
+Please view full instructions in *instructions.docx* in the current directory. Enjoy!
 
 ## References
 https://github.com/90lucasgabriel/restaurant-api/blob/master/README.md
